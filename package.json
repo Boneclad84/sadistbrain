@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "vite --host 127.0.0.1"
+  },
+  "dependencies": {
+    "three": "^0.155.0",
+    "three-mtl-loader": "^1.0.2",
+    "vite": "^4.4.9"
+  }
+}
